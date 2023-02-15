@@ -8,7 +8,7 @@ import android.support.annotation.Nullable;
 import android.util.Log;
 
 import com.zv.geochat.Constants;
-
+//.
 
 public class MessageNotifierConfig implements SharedPreferences.OnSharedPreferenceChangeListener{
     private static final String TAG = "MessageNotifierConfig";
